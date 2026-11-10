@@ -1,5 +1,15 @@
+
 # LLM Agent Orchestration Platform
 
-[![Python](https://img.shields.io/badge/python-3.11%2B-blue)](https://www.python.org/)
+![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
+![Streamlit](https://img.shields.io/badge/Streamlit-Enabled-FF4B4B.svg)
 
-The project demonstrates different approaches to coordinating LLM agents, including sequential, parallel, centralized, and distributed orchestration. 
+Платформа для изучения и сравнения стратегий оркестровки LLM-агентов: последовательной, параллельной, централизованной и распределённой.
+
+A platform for exploring and benchmarking LLM agent orchestration strategies: sequential, parallel, centralized, and distributed.
+
+## Запуск приложения
+
+```bash
+streamlit run app.py
+```
